@@ -13,9 +13,9 @@ solver.py will print the expression and the number that should go in the cptch_n
 Example
 =======
 
-$ ./solver.py http://localhost/captchatest.php
-Expr: 8 ×=  fifty six
-Solved: 7
+    $ ./solver.py http://localhost/captchatest.php
+    Expr: 8 ×=  fifty six
+    Solved: 7
 
 Recommendations
 ===============
